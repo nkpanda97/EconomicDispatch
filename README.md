@@ -4,6 +4,7 @@ This was a part of the course "Power system analysis and optimisation" taught at
 
 How to run the programe:
 * Install a free academic liscense from GUROBI.com
+* Unzip Archive.zip folder and copy the folder contents in the root directory
 * Open run_me.pynb python notebook in jupyter using anaconda or anyother suitable platform.
 * Run it
 
